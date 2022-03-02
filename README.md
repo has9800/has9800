@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @has9800
-- 🔨 I'm a frontend developer with a focus on performance and accessibility
-- 👀 I’m interested in all things computer science 🧬
+- 🔨 I'm a frontend developer with a focus on:
+  - Scalability
+  - Performance
+  - Accessibility
+- 🧰 Tools I currently use are: React, NextJS, MongoDB, NodeJS, Express, Remix, and a lot more...
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on pretty much anything tbh 🤷🏽
 - 📫 You can reach me @ khumeryb@gmail.com
