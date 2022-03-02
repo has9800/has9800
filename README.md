@@ -5,7 +5,6 @@
   - Accessibility
 - 🧰 Tools I currently use are: React, NextJS, MongoDB, NodeJS, Express, Remix, and a lot more...
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on pretty much anything tbh 🤷🏽
 - 📫 You can reach me @ khumeryb@gmail.com
 
 <!---
