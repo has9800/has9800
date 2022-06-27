@@ -4,10 +4,7 @@
   - Performance
   - Accessibility
 - 🧰 Tools I currently use are: React, NextJS, MongoDB, NodeJS, Express, Remix, and a lot more...
-- 🌱 I’m currently learning data structures and algorithms
 - 📫 You can reach me @ khumeryb@gmail.com
+- Portfolio: https://www.has9800.vercel.app
 
-<!---
-has9800/has9800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=has9800&hide=contribs,stars&theme=codeSTACKr&show_icons=true)
