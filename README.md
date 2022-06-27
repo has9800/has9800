@@ -7,4 +7,4 @@
 - 📫 You can reach me @ khumeryb@gmail.com
 - Portfolio: https://www.has9800.vercel.app
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=has9800&hide=contribs,stars&theme=codeSTACKr&show_icons=true)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=has9800&hide=contribs,stars&theme=codeSTACKr&show_icons=true&count_private=true)
