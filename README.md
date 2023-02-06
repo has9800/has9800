@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Hasan
-My name is Hasan and I'm an ex software engineer and current data analyst with a focus and specialization in business intelligence analytics.
+My name is Hasan and I'm an ex software engineer and current data analyst specializing in business intelligence analytics.
 
 <br />
 
-Currently, I'm working as a remote marketing analyst for a major healthcare company in the United Arab Emirates. I analyze marketing data and turn it into actionable insights, and provide analysis on key business data. Finally, I create dashboards and consult on marketing and business strategy with the marketing deparment and also the business execs. including the CFO and CEO.
+Currently, I'm working as a remote business intelligence analyst for a major healthcare company in the United Arab Emirates. I analyze marketing data and turn it into actionable insights, and provide analysis on key business data. Finally, I create dashboards and consult on marketing and business strategy with the marketing deparment and also the business execs including the CFO and CEO.
 
 <hr />
 
@@ -15,7 +15,7 @@ Currently, I'm working as a remote marketing analyst for a major healthcare comp
 ## Skills:
 - Power BI, Excel, Powerpoint
 - Programming languages such as Python and SQL
-- Numpy, Pandas, Matplotlib, and Seaborn
+- Numpy, Pandas, Matplotlib, Seaborn, and Tableau
 - Machine learning algorithm implementation using Scikit-learn for more advanced data analysis
 - Domain knowledge in business, strategy, marketing, and finance
 
