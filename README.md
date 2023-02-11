@@ -1,22 +1,21 @@
 # 👋 Hi, I’m Hasan
-My name is Hasan and I'm an ex software engineer and current data analyst specializing in business intelligence analytics.
+My name is Hasan and I'm a data analyst specializing in business intelligence
 
 <br />
 
-Currently, I'm working as a remote business intelligence analyst for a major healthcare company in the United Arab Emirates. I analyze marketing data and turn it into actionable insights, and provide analysis on key business data. Finally, I create dashboards and consult on marketing and business strategy with the marketing deparment and also the business execs including the CFO and CEO.
+Currently, I'm working as a remote business intelligence analyst for a major healthcare company in the United Arab Emirates. I analyze marketing data and turn it into actionable insights, and provide analysis on key business data. Finally, I create dashboards and on marketing and business strategy with the marketing deparment.
 
 <hr />
 
 ## Education
 - Bachelor of Science in Information Technology (2022) - ***Western Governors University***
 - Master of Science in Data Analysis (Current part time) -  ***Western Governors University***
-- Meta (Facebook) Marketing Analytics Professional Certificate
 
 ## Skills:
 - Power BI, Excel, Powerpoint
 - Programming languages such as Python and SQL
 - Numpy, Pandas, Matplotlib, Seaborn, and Tableau
-- Machine learning algorithm implementation using Scikit-learn for more advanced data analysis
+- Machine learning algorithms implementation using Scikit-learn for more advanced analysis and building production models
 - Domain knowledge in business, strategy, marketing, and finance
 
 ## Other skills:
