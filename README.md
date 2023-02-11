@@ -3,7 +3,7 @@ My name is Hasan and I'm a data analyst specializing in business intelligence
 
 <br />
 
-Currently, I'm working as a remote business intelligence analyst for a major healthcare company in the United Arab Emirates. I analyze marketing data and turn it into actionable insights, and provide analysis on key business data. Finally, I create dashboards and on marketing and business strategy with the marketing deparment.
+Currently, I'm working as a remote business intelligence analyst for a major healthcare company in the United Arab Emirates. I analyze marketing data and turn it into actionable insights & provide analysis on key business data. Finally, I create dashboards and on marketing and business strategy with the marketing deparment.
 
 <hr />
 
