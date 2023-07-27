@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Hasan
-My name is Hasan and I'm a data analyst specializing in business intelligence
-
+My name is Hasan and I'm a data scientist specializing in business intelligence.
 <br />
 
 
