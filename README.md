@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hasan
+# 👋 Hi
 My name is Hasan and I'm a data scientist specializing in business intelligence.
 <br />
 
