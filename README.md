@@ -47,7 +47,7 @@ I'm also fluent in customizing CUDA kernels, and the overall GPU architecture sp
 <hr />
 
 You can view my work on my website.
-- [My website 🔗](hahmed2.vercel.app)
+- [My website 🔗](https://hahmed2.vercel.app)
 
 <hr />
 
