@@ -10,7 +10,7 @@ I'm also a hobbyist in customizing CUDA kernels, and the overall GPU architectur
 - Bachelor of Science in Information Technology (2022) - ***Western Governors University***
 - Master of Science in Data Analysis -  ***Western Governors University***
 
-## ML Hardware
+## ML Hardware Skills
 - Customizing CUDA kernels, batching, and processing
 - Extending the cuDNN library for lower-level control
 - Solid grasp of architectural bottlenecks in Hopper, Ampere, and Blackwell Nvidia GPU architectures
