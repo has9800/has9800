@@ -1,8 +1,8 @@
 # Hasan Ahmed
 
-I'm an AI/ML applied researcher with interest in applying reasoning in LLMs, reasoning engines, and more.
+I'm an AI/ML applied researcher with interest in optimization/training and applying reasoning in LLMs, alignment, and more.
 
-I'm also a hobbyist in customizing CUDA kernels, and the overall GPU architecture specifically, Nvidia Hopper (H100, H200) and Ampere (A100) variants, whilst learning more about the newer Blackwell architecture.
+I'm also a hobbyist in exploring alternative solutions for bottlenecks in Transformer models, as well as customizing CUDA kernels, and the overall GPU architecture specifically, Nvidia Hopper (H100, H200) and Ampere (A100) variants, whilst learning more about the newer Blackwell architecture.
 
 <hr />
 
