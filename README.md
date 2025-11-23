@@ -7,8 +7,14 @@ I'm also a hobbyist in customizing CUDA kernels, and the overall GPU architectur
 <hr />
 
 ## Education
-- Bachelor of Science in Information Technology (2022) - ***Western Governors University***
-- Master of Science in Data Analysis -  ***Western Governors University***
+### UC Berkeley
+- Integral Calculus (Calculus 2)
+- Multivariable Calculus (Calculus 3)
+- Linear Algebra
+  
+### Western Governor's University - Salt Lake, UH
+- Master of Science in Computer Science, Artificial Intelligence & Machine Learning Specialization
+- Bachelor of Science in Information Technology
 
 ## ML Hardware Skills
 - Customizing CUDA kernels, batching, and processing
