@@ -14,7 +14,7 @@ I'm also a hobbyist in exploring alternative solutions for bottlenecks in Transf
   
 ### Western Governor's University - Salt Lake, UH
 - Master of Science in Computer Science, Artificial Intelligence & Machine Learning Specialization
-- Bachelor of Science in Information Technology
+- Bachelor of Science in Conputer Science 
 
 ## ML Hardware Skills
 - Customizing CUDA kernels, batching, and processing
