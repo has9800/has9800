@@ -8,7 +8,7 @@ I'm an AI/ML student doing a combined undergrad & grad program with interest in 
   
 ### Western Governor's University - Salt Lake, UH
 - Master of Science in Computer Science, Artificial Intelligence & Machine Learning Specialization
-- Bachelor of Science in Conputer Science
+- Bachelor of Science in Computer Science
 
 #### Relevant courses:
 Data structures & algorithms
