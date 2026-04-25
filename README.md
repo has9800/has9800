@@ -1,6 +1,6 @@
 # Hasan Ahmed
 
-I'm an AI/ML student doing a combined undergrad & grad program with interest in automation, robotics, interpretability, and reasoning.
+I'm an AI/ML student doing a combined undergrad & grad program with interest in automation, robotics, interpretability, reasoning, and agentic flows.
 
 <hr />
 
