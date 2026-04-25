@@ -10,14 +10,14 @@ I'm an AI/ML student doing a combined undergrad & grad program with interest in 
 - Master of Science in Computer Science, Artificial Intelligence & Machine Learning Specialization
 - Bachelor of Science in Conputer Science
 
-  Relevant courses:
-- Data structures & algorithms
-- Discrete Mathematics
-- Compiler design and C++
-- Linear Algebra, Differential and Multivariable Calculus, Differential Equations
-- ML Theory & Optimization
-- Information Theory
-- Control Theory
+#### Relevant courses:
+Data structures & algorithms
+Discrete Mathematics
+Compiler design and C++
+Linear Algebra, Differential and Multivariable Calculus, Differential Equations
+ML Theory & Optimization
+Information Theory
+Control Theory
 
 ## ML Hardware Skills
 - ML computation graph compilation and optimization
