@@ -14,7 +14,7 @@ I'm an AI/ML student doing a combined undergrad & grad program with interest in 
 Data structures & algorithms | 
 Discrete Mathematics | 
 Compiler design and C++ | 
-Linear Algebra, Differential and Multivariable Calculus, Differential Equations | 
+Linear Algebra | Calculus | Differential Equations | 
 ML Theory & Optimization | 
 Information Theory | 
 Control Theory
