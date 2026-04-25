@@ -33,13 +33,13 @@ Control Theory
 - Deep learning practices in regard to learning rates, optimizers, regularization, batching, and overall training expertise
 - Deep knowledge of fundamental concepts such as chain-rule & backpropagation, gradient descent, exploding/vanishing gradients, and more
 - Underlying mathematical concepts in Linear Algebra, Calculus, and Statistics & Probability
-- The ability to read research paper and implement the steps to reproduce and verify, as well as use exisiting work as inspiration to continue research
+- The ability to read research paper and implement the steps to reproduce and verify, as well as use exisiting work as inspiration
 
 ## Data Engineering Skills:
 - Machine learning algorithms implementation using Scikit-learn for more advanced analysis and building predictive models
 - Cleaning, manipulating, and extracting data
 - Creating visualizations, dashboards, and good verbal/writing skills to communicate my work in Power BI, Excel, Powerpoint
-- Preprocessing data and training machine learning algorithms 
+- Preprocessing data tro train machine learning algorithms 
 - Merging multiple sources of data such as databases to run analytics using SQL
 - Building APIs and deploying models for production
 - Writing code which could include building client apps, mobile apps, servers, and also scripting (Powershell & Bash)
