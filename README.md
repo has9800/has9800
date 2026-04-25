@@ -39,10 +39,10 @@ Control Theory
 - Machine learning algorithms implementation using Scikit-learn for more advanced analysis and building predictive models
 - Cleaning, manipulating, and extracting data
 - Creating visualizations, dashboards, and good verbal/writing skills to communicate my work in Power BI, Excel, Powerpoint
-- Preprocessing data tro train machine learning algorithms 
-- Merging multiple sources of data such as databases to run analytics using SQL
+- Preprocessing data to train machine learning algorithms 
+- Merging multiple sources of data to run analytics using SQL or Pandas for Excel sheets
 - Building APIs and deploying models for production
-- Writing code which could include building client apps, mobile apps, servers, and also scripting (Powershell & Bash)
+- Writing code which could include building client apps, mobile apps, and servers using React and JavaScript, as well as scripting (Powershell & Bash)
 
 <hr />
 
