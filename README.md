@@ -7,16 +7,16 @@ I'm an AI/ML student doing a combined undergrad & grad program with interest in 
 ## Education
   
 ### Western Governor's University - Salt Lake, UT
-- Master of Science in Computer Science, Artificial Intelligence & Machine Learning Specialization
-- Bachelor of Science in Computer Science
+- Msc in Computer Science, Artificial Intelligence & Machine Learning Specialization
+- Bsc in Computer Science
 
 #### Relevant courses:
-Data structures & algorithms
-Discrete Mathematics
-Compiler design and C++
-Linear Algebra, Differential and Multivariable Calculus, Differential Equations
-ML Theory & Optimization
-Information Theory
+Data structures & algorithms | 
+Discrete Mathematics | 
+Compiler design and C++ | 
+Linear Algebra, Differential and Multivariable Calculus, Differential Equations | 
+ML Theory & Optimization | 
+Information Theory | 
 Control Theory
 
 ## ML Hardware Skills
