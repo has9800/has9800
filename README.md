@@ -13,7 +13,7 @@ I'm an AI/ML student doing a combined undergrad & grad program with interest in 
 #### Relevant courses:
 Data structures & algorithms | 
 Discrete Mathematics | 
-Compiler design and C++ | 
+Programming in C++, Java, and Python | 
 Linear Algebra | Calculus | Differential Equations | 
 ML Theory & Optimization | 
 Information Theory | 
