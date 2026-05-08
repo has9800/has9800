@@ -11,13 +11,15 @@ I'm an AI/ML student doing a combined undergrad & grad program with interest in 
 - Bsc in Computer Science
 
 #### Relevant courses:
-Data structures & algorithms -- 
-Discrete Mathematics -- 
-Programming in C++, Java, and Python -- 
-Linear Algebra -- Calculus -- Differential Equations -- 
-ML Theory & Optimization -- 
-Information Theory -- 
+```bash
+Data structures & algorithms, 
+Discrete Mathematics,
+Programming in C++, Java, and Python, 
+Linear Algebra - Calculus - Differential Equations, 
+ML Theory & Optimization, 
+Information Theory, 
 Control Theory
+```
 
 ## ML Hardware Skills
 - ML computation graph compilation and optimization
