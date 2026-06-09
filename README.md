@@ -1,6 +1,6 @@
 # Hasan Ahmed
 
-I'm an AI/ML student doing a combined undergrad & grad program with interest in automation, robotics, interpretability, reasoning, and agentic flows.
+I'm an AI/ML student doing a combined undergrad & grad program with interest in automation, robotics, interpretability, and reasoning.
 
 <hr />
 
@@ -22,10 +22,9 @@ Control Theory
 ```
 
 ## ML Hardware Skills
-- ML computation graph compilation and optimization
-- Customizing CUDA kernels for more control over specific GPU types
+- Writing CUDA kernels for more control over specific GPU types
 - Nvidia CUDA libraries such as cuDNN, cuBLAS, and CUTLASS
-- Solid grasp of architectural bottlenecks in Hopper, Ampere, and Blackwell Nvidia GPU architectures
+- Hopper, Ampere, and Blackwell Nvidia GPU architectures
 - An understanding of LLM inference engines such as vLLM and TensorRT-LLM, how they work, and their limitations
 
 ## Deep Learning Skills:
